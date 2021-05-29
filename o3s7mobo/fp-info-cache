@@ -1,4 +1,4 @@
-18641444483964948
+18646311194002010
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -50631,6 +50631,20 @@ AGP
 120
 119
 Downloaded
+ATXpower
+
+
+0
+20
+20
+Downloaded
+ATpower
+
+
+0
+12
+12
+Downloaded
 ISA
 
 
@@ -50658,6 +50672,13 @@ PCI
 0
 120
 120
+Downloaded
+SATA
+
+
+0
+9
+7
 Downloaded
 SDRAM
 
