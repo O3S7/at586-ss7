@@ -1,12 +1,4 @@
-Cmp-Mod V01 Created by PcbNew   date = 5/29/2021 6:57:21 PM
-
-BeginCmp
-TimeStamp = 60B391CB
-Path = 
-Reference = PS2;
-ValeurCmp = PS2;
-IdModule  = Downloaded:PS2;
-EndCmp
+Cmp-Mod V01 Created by PcbNew   date = 5/30/2021 11:51:35 AM
 
 BeginCmp
 TimeStamp = 60B3334B
@@ -14,6 +6,14 @@ Path =
 Reference = KEYBOARD;
 ValeurCmp = ATkeyboard;
 IdModule  = Downloaded:ATkeyboard;
+EndCmp
+
+BeginCmp
+TimeStamp = 60B391CB
+Path = 
+Reference = PS2;
+ValeurCmp = PS2;
+IdModule  = Downloaded:PS2;
 EndCmp
 
 BeginCmp
@@ -60,7 +60,7 @@ BeginCmp
 TimeStamp = 60B0B6A2
 Path = 
 Reference = ATXpower;
-ValeurCmp = ATXpower;
+ValeurCmp = ATX1;
 IdModule  = Downloaded:ATXpower;
 EndCmp
 

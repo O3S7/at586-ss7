@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AT-12
+D AT Power supply 12pins
+K AT PSU
+$ENDCMP
+#
+#End Doc Library
