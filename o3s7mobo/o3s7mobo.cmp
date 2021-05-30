@@ -1,0 +1,363 @@
+Cmp-Mod V01 Created by PcbNew   date = 5/29/2021 6:57:21 PM
+
+BeginCmp
+TimeStamp = 60B391CB
+Path = 
+Reference = PS2;
+ValeurCmp = PS2;
+IdModule  = Downloaded:PS2;
+EndCmp
+
+BeginCmp
+TimeStamp = 60B3334B
+Path = 
+Reference = KEYBOARD;
+ValeurCmp = ATkeyboard;
+IdModule  = Downloaded:ATkeyboard;
+EndCmp
+
+BeginCmp
+TimeStamp = 60B33039
+Path = 
+Reference = ATpower;
+ValeurCmp = ATpower;
+IdModule  = Downloaded:ATpower;
+EndCmp
+
+BeginCmp
+TimeStamp = 60B1833B
+Path = 
+Reference = SATA1_3;
+ValeurCmp = SATA;
+IdModule  = Downloaded:SATA;
+EndCmp
+
+BeginCmp
+TimeStamp = 60B18323
+Path = 
+Reference = SATA1_2;
+ValeurCmp = SATA;
+IdModule  = Downloaded:SATA;
+EndCmp
+
+BeginCmp
+TimeStamp = 60B1830B
+Path = 
+Reference = SATA1_1;
+ValeurCmp = SATA;
+IdModule  = Downloaded:SATA;
+EndCmp
+
+BeginCmp
+TimeStamp = 60B17EDF
+Path = 
+Reference = SATA1_0;
+ValeurCmp = SATA;
+IdModule  = Downloaded:SATA;
+EndCmp
+
+BeginCmp
+TimeStamp = 60B0B6A2
+Path = 
+Reference = ATXpower;
+ValeurCmp = ATXpower;
+IdModule  = Downloaded:ATXpower;
+EndCmp
+
+BeginCmp
+TimeStamp = 60B0B022
+Path = 
+Reference = VT6212L;
+ValeurCmp = VT6212L;
+IdModule  = Downloaded:VT6212L;
+EndCmp
+
+BeginCmp
+TimeStamp = 60B03283
+Path = 
+Reference = SiI3114CTU;
+ValeurCmp = SiI3114CTU;
+IdModule  = Downloaded:SiI3114CTU;
+EndCmp
+
+BeginCmp
+TimeStamp = 60B1872E
+Path = 
+Reference = BIOS;
+ValeurCmp = PLCC-32_11.4x14.0mm_P1.27mm;
+IdModule  = Package_LCC:PLCC-32_11.4x14.0mm_P1.27mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 60B043E1
+Path = 
+Reference = SDRAM3;
+ValeurCmp = SDRAM;
+IdModule  = Downloaded:SDRAM;
+EndCmp
+
+BeginCmp
+TimeStamp = 60B0427B
+Path = 
+Reference = SDRAM2;
+ValeurCmp = SDRAM;
+IdModule  = Downloaded:SDRAM;
+EndCmp
+
+BeginCmp
+TimeStamp = 60B0405F
+Path = 
+Reference = SDRAM1;
+ValeurCmp = SDRAM;
+IdModule  = Downloaded:SDRAM;
+EndCmp
+
+BeginCmp
+TimeStamp = 60A81BC6
+Path = 
+Reference = AGP;
+ValeurCmp = AGP;
+IdModule  = Downloaded:AGP;
+EndCmp
+
+BeginCmp
+TimeStamp = 60ABF55D
+Path = 
+Reference = PCI1;
+ValeurCmp = PCI;
+IdModule  = Downloaded:PCI;
+EndCmp
+
+BeginCmp
+TimeStamp = 60C78D08
+Path = 
+Reference = Socket7;
+ValeurCmp = Socket_7;
+IdModule  = Downloaded:Socket_7;
+EndCmp
+
+BeginCmp
+TimeStamp = 60ABF3E0
+Path = 
+Reference = PCI2;
+ValeurCmp = PCI;
+IdModule  = Downloaded:PCI;
+EndCmp
+
+BeginCmp
+TimeStamp = 60ABF261
+Path = 
+Reference = PCI3;
+ValeurCmp = PCI;
+IdModule  = Downloaded:PCI;
+EndCmp
+
+BeginCmp
+TimeStamp = 60ABF0E4
+Path = 
+Reference = PCI4;
+ValeurCmp = PCI;
+IdModule  = Downloaded:PCI;
+EndCmp
+
+BeginCmp
+TimeStamp = 60A89E7A
+Path = 
+Reference = [NoRef];
+ValeurCmp = MountingHole_3.5mm_Pad_Via;
+IdModule  = MountingHole:MountingHole_3.5mm_Pad_Via;
+EndCmp
+
+BeginCmp
+TimeStamp = 60A89DD2
+Path = 
+Reference = [NoRef];
+ValeurCmp = MountingHole_3.5mm_Pad_Via;
+IdModule  = MountingHole:MountingHole_3.5mm_Pad_Via;
+EndCmp
+
+BeginCmp
+TimeStamp = 60A89D85
+Path = 
+Reference = [NoRef];
+ValeurCmp = MountingHole_3.5mm_Pad_Via;
+IdModule  = MountingHole:MountingHole_3.5mm_Pad_Via;
+EndCmp
+
+BeginCmp
+TimeStamp = 60A89CDD
+Path = 
+Reference = [NoRef];
+ValeurCmp = MountingHole_3.5mm_Pad_Via;
+IdModule  = MountingHole:MountingHole_3.5mm_Pad_Via;
+EndCmp
+
+BeginCmp
+TimeStamp = 60A89C98
+Path = 
+Reference = [NoRef];
+ValeurCmp = MountingHole_3.5mm_Pad_Via;
+IdModule  = MountingHole:MountingHole_3.5mm_Pad_Via;
+EndCmp
+
+BeginCmp
+TimeStamp = 60A87E28
+Path = 
+Reference = [NoRef];
+ValeurCmp = MountingHole_3.5mm_Pad_Via;
+IdModule  = MountingHole:MountingHole_3.5mm_Pad_Via;
+EndCmp
+
+BeginCmp
+TimeStamp = 60A87DDB
+Path = 
+Reference = [NoRef];
+ValeurCmp = MountingHole_3.5mm_Pad_Via;
+IdModule  = MountingHole:MountingHole_3.5mm_Pad_Via;
+EndCmp
+
+BeginCmp
+TimeStamp = 60A87D70
+Path = 
+Reference = [NoRef];
+ValeurCmp = MountingHole_3.5mm_Pad_Via;
+IdModule  = MountingHole:MountingHole_3.5mm_Pad_Via;
+EndCmp
+
+BeginCmp
+TimeStamp = 60A87C8B
+Path = 
+Reference = [NoRef];
+ValeurCmp = MountingHole_3.5mm_Pad_Via;
+IdModule  = MountingHole:MountingHole_3.5mm_Pad_Via;
+EndCmp
+
+BeginCmp
+TimeStamp = 60A638AC
+Path = 
+Reference = PCI5;
+ValeurCmp = PCI;
+IdModule  = Downloaded:PCI;
+EndCmp
+
+BeginCmp
+TimeStamp = 60A616F6
+Path = 
+Reference = ISA1;
+ValeurCmp = ISA;
+IdModule  = Downloaded:ISA;
+EndCmp
+
+BeginCmp
+TimeStamp = 60A61628
+Path = 
+Reference = ISA2;
+ValeurCmp = ISA;
+IdModule  = Downloaded:ISA;
+EndCmp
+
+BeginCmp
+TimeStamp = 60A3521F
+Path = 
+Reference = M1543;
+ValeurCmp = M1543;
+IdModule  = Downloaded:M1543;
+EndCmp
+
+BeginCmp
+TimeStamp = 60A2F584
+Path = 
+Reference = M1541;
+ValeurCmp = M1541;
+IdModule  = Downloaded:M1541;
+EndCmp
+
+BeginCmp
+TimeStamp = 60A1EFC3
+Path = 
+Reference = CMOSBAT;
+ValeurCmp = Battery_Panasonic_CR2032-VS1N_Vertical_CircularHoles;
+IdModule  = Battery:Battery_Panasonic_CR2032-VS1N_Vertical_CircularHoles;
+EndCmp
+
+BeginCmp
+TimeStamp = 60A0E0C1
+Path = 
+Reference = USB2_1;
+ValeurCmp = PinHeader_2x05_P2.54mm_Vertical;
+IdModule  = Connector_PinHeader_2.54mm:PinHeader_2x05_P2.54mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 60A0E13E
+Path = 
+Reference = USB2_0;
+ValeurCmp = PinHeader_2x05_P2.54mm_Vertical;
+IdModule  = Connector_PinHeader_2.54mm:PinHeader_2x05_P2.54mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 60A0B06B
+Path = 
+Reference = ATXFORM;
+ValeurCmp = PinHeader_2x09_P2.54mm_Vertical;
+IdModule  = Connector_PinHeader_2.54mm:PinHeader_2x09_P2.54mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 60A0D351
+Path = 
+Reference = SERIAL2;
+ValeurCmp = PinHeader_2x05_P2.54mm_Vertical;
+IdModule  = Connector_PinHeader_2.54mm:PinHeader_2x05_P2.54mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 60A0DF86
+Path = 
+Reference = PARALLEL1;
+ValeurCmp = PinHeader_2x13_P2.54mm_Vertical;
+IdModule  = Connector_PinHeader_2.54mm:PinHeader_2x13_P2.54mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 60A0D2D4
+Path = 
+Reference = SERIAL1;
+ValeurCmp = PinHeader_2x05_P2.54mm_Vertical;
+IdModule  = Connector_PinHeader_2.54mm:PinHeader_2x05_P2.54mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 60A09FDA
+Path = 
+Reference = FPANEL;
+ValeurCmp = PinHeader_2x08_P2.54mm_Vertical;
+IdModule  = Connector_PinHeader_2.54mm:PinHeader_2x08_P2.54mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 60A1D5C7
+Path = 
+Reference = IDE1;
+ValeurCmp = PinHeader_2x20_P2.54mm_Vertical;
+IdModule  = Connector_PinHeader_2.54mm:PinHeader_2x20_P2.54mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 60A1D6BC
+Path = 
+Reference = IDE2;
+ValeurCmp = PinHeader_2x20_P2.54mm_Vertical;
+IdModule  = Connector_PinHeader_2.54mm:PinHeader_2x20_P2.54mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 60A08211
+Path = 
+Reference = FLOPPY;
+ValeurCmp = PinHeader_2x16_P2.54mm_Vertical;
+IdModule  = Connector_PinHeader_2.54mm:PinHeader_2x16_P2.54mm_Vertical;
+EndCmp
+
+EndListe
