@@ -4,7 +4,7 @@ The Gigabyte GA-5AX Rev 5.2 is revered as one of the better SS7 motherboards: ht
 
 ## Parts
 
-The northbridge: https://www.ebay.com/itm/392498062125
+The northbridge: https://www.ebay.com/itm/282794876698
 
 Southbridge: https://www.ebay.com/itm/1pcs-M1543C-A1-M1543CA1-M1543C-BGA-/392504474886
 
