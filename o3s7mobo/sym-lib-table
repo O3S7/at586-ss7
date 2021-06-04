@@ -1,3 +1,4 @@
 (sym_lib_table
   (lib (name Downloaded)(type Legacy)(uri ${KIPRJMOD}/Downloaded.lib)(options "")(descr ""))
+  (lib (name o3s7mobo-rescue)(type Legacy)(uri ${KIPRJMOD}/o3s7mobo-rescue.lib)(options "")(descr ""))
 )
